@@ -10,3 +10,6 @@ notebooks/model_calibration_solution.ipynb
 notebooks/.ipynb_checkpoints
 
 .ipynb_checkpoints
+
+# [You should exclude your virtual environment directory from your version control system using .gitignore or similar.](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/)
+.venv/
